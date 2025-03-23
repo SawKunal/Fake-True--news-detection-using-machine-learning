@@ -1,13 +1,13 @@
 # Fake News Detection 📰🛑
 This repository contains a Fake News Detection project implemented in Python. The goal of this project is to classify news articles as real or fake using machine learning and natural language processing (NLP) techniques.
 
-##📌 Features
+## Features 📌
 -Data preprocessing & cleaning
 -Feature extraction using TF-IDF
 -Machine learning models for classification
 -Model evaluation & accuracy metrics
 
-##🚀 Getting Started
+## Getting Started 🚀
 1️⃣ Clone the repository
 git clone https://github.com/your-username/fake-news-detection.git
 cd fake-news-detection
