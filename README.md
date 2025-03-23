@@ -20,17 +20,17 @@ pip install -r requirements.txt
 Launch Jupyter Notebook and open Fake news.ipynb:
 jupyter notebook
 
-##🏗 Tech Stack
+## Tech Stack🏗 
 -Python 🐍
 -Pandas & NumPy 📊
 -Scikit-learn 🤖
 -Natural Language Processing (NLP)
 
-##📄 Dataset
+## Dataset📄 
 The dataset used for this project is sourced from [mention dataset source].
 
-##🤝 Contributing
+## Contributing🤝
 Feel free to fork this repository and submit pull requests with improvements!
 
-##📜 License
+## License📜
 This project is licensed under the MIT License.
