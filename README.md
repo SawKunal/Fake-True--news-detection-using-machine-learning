@@ -9,7 +9,7 @@ This repository contains a Fake News Detection project implemented in Python. Th
 
 ## Getting Started 🚀
 1️⃣ Clone the repository
-git clone https://github.com/your-username/fake-news-detection.git
+git clone https://github.com/SawKunal/Fake-True--news-detection-using-machine-learning.git
 cd fake-news-detection
 
 2️⃣ Install dependencies
@@ -21,10 +21,10 @@ Launch Jupyter Notebook and open Fake news.ipynb:
 jupyter notebook
 
 ## Tech Stack🏗 
--Python 🐍
--Pandas & NumPy 📊
--Scikit-learn 🤖
--Natural Language Processing (NLP)
+- Python 🐍
+- Pandas & NumPy 📊
+- Scikit-learn 🤖
+- Natural Language Processing (NLP)
 
 ## Dataset📄 
 The dataset used for this project is sourced from [mention dataset source].
